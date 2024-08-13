@@ -1,0 +1,5 @@
+src/firebase.ts
+**/node_modules/
+README.md
+**/.DS_Store
+**/._.DS_Store

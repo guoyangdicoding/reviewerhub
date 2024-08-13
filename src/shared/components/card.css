@@ -1,0 +1,15 @@
+.btn_theme:hover {
+  color: #fff;
+}
+
+.btn_theme_active:hover {
+  color: #000;
+}
+
+.btn_theme:focus {
+  color: #fff;
+}
+
+.btn_theme_active:focus {
+  color: #000;
+}

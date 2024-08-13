@@ -1,0 +1,41 @@
+.btn_theme:hover {
+  color: #fff;
+}
+
+.btn_theme_active:hover {
+  color: #000;
+}
+.bread-c {
+  margin-top: 82px;
+  height: 290px;
+}
+
+@media screen and (min-width: 768px) {
+  .loan-reviews .loan-reviews__thumb img {
+    width: 100px !important;
+    height: 37px;
+  }
+
+  .bread-c {
+    margin-top: 106px;
+    height: 400px;
+  }
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  margin-bottom: 20px;
+}
+
+.vh-100 {
+  min-height: 100vh;
+}
+
+
+a {
+  text-decoration: unset !important;
+}
